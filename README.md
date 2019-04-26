@@ -36,7 +36,7 @@
  * 1x Brückengleichrichter, 100 V, 2 A 		(B40C1500-WW+)
 
 
-Artikelnummer in Klammern sind von Reichelt.
+Artikelnummer in Klammern sind von Reichelt und nur eine Entfehlung.
 
 Abmaße: 60mm*90mm
 
