@@ -38,10 +38,12 @@
 
 
 Artikelnummer in Klammern sind von Reichelt.
+
 Abmaﬂe: 60mm*90mm
 
 
 [Kontakt via Facebook](https://www.facebook.com/ronny.thomas.83)
+
 [Kontakt via Homematic Forum](https://homematic-forum.de/forum/memberlist.php?mode=viewprofile&u=13127)
 
 
