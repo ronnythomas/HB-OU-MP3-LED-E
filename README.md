@@ -13,6 +13,7 @@
  * 1x Kondensator 100µF 50V RM3,5 		(RAD FR 100/50)
  * 1x Federkraftklemme 2-pol, Ø 1,5 mm, RM 3,5  (AST 02 3,5)
  * 1x Federkraftklemme 3-pol, Ø 1,5 mm, RM 3,5  (AST 03 3,5) für WS2812B LED
+ * 1x Lautsprecher max 3 Watt 8Ohm
 
 **Spannungsversorung 230V AC**
 
